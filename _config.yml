@@ -60,9 +60,8 @@ content:
         # link_text: boringcompany.com
         sub_title: Game Developer
         caption: May 2021 - Present
-        quote: >
-          Unity, Git
         description: | # this will include new lines to allow paragraphs
+            Skill learned: Unity, Git
             Leverage Unity game engine to develop and maintain multiple casual mobile games for mobile platforms.
 
       - layout: left
@@ -71,9 +70,8 @@ content:
         # link_text: boringcompany.com
         sub_title: Game Developer Freshser
         caption: May 2020 - Dec 2020
-        quote: >
-          JavaScript, Git
         description: | # this will include new lines to allow paragraphs
+            Skill learned: Unity, Git
             Completed a project developing the client-side of a simple mobile game within a 3-person team.
 
   - title: Projects # Title for the section
@@ -81,7 +79,6 @@ content:
     content:
       - layout: left
         title: Red Bounce Ball Adventure
-        link: https://play.google.com/store/apps/details?id=com.ball.adventure.color.red
         # link_text: Project link
         #additional_links:
           #- title:  sproogen/modern-resume-theme
@@ -91,23 +88,21 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          An adventure game where players control a red ball, conquering obstacles and solving puzzles.
+          https://play.google.com/store/apps/details?id=com.ball.adventure.color.red
         description: | # this will include new lines to allow paragraphs
           My first project using Unity, this casual adventure game provided a foundation in core game development concepts and the Unity workflow.
 
       - layout: left
         title: Merge Spider Train
-        link: https://play.google.com/store/apps/details?id=merge.choo.choo.horror.train
         quote: >
-          A run-and-merge game where players collect and combine monstrous spider trains to defeat enemies.
+          https://play.google.com/store/apps/details?id=merge.choo.choo.horror.train
         description: | # this will include new lines to allow paragraphs
           Developed the core game logic, including character merging and enemy combat mechanics. Additionally, maintained and updated the game's SDK, ensuring smooth integration of third-party functionalities.
 
       - layout: left
         title: Merge Spider Train
-        link: https://play.google.com/store/apps/details?id=merge.choo.choo.horror.train
         quote: >
-          A run-and-merge game where players collect and combine monstrous spider trains to defeat enemies.
+          https://play.google.com/store/apps/details?id=merge.choo.choo.horror.train
         description: | # this will include new lines to allow paragraphs
           Developed the core game logic, including character merging and enemy combat mechanics. Additionally, maintained and updated the game's SDK, ensuring smooth integration of third-party functionalities.
      
