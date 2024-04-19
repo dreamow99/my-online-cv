@@ -72,7 +72,7 @@ content:
         sub_title: Game Developer Freshser
         caption: May 2020 - Dec 2020
         description: | # this will include new lines to allow paragraphs
-            Skill learned: Unity, Git
+            Skill learned: JavaScript, Git
 
             Completed a project developing the client-side of a simple mobile game within a 3-person team.
 
@@ -89,52 +89,64 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        description: | # this will include new lines to allow paragraphs
+        quote: >
           [Demo](https://play.google.com/store/apps/details?id=com.ball.adventure.color.red)
-
+        description: | # this will include new lines to allow paragraphs
           My first project using Unity, this casual adventure game provided a foundation in core game development concepts and the Unity workflow.
 
       - layout: top-middle
         title: Merge Spider Train
-        description: | # this will include new lines to allow paragraphs
+        quote: >
           [Demo](https://play.google.com/store/apps/details?id=merge.choo.choo.horror.train)
-          
-          Developed the core game logic, including character merging and enemy combat mechanics. Additionally, maintained and updated the game's SDK, ensuring smooth integration of third-party functionalities.
+        description: | # this will include new lines to allow paragraphs
+          Developed the core game logic, including character controlling, character merging and enemy combat mechanics. Additionally, maintained and updated the game's SDK, ensuring smooth integration of third-party functionalities.
 
       - layout: top-middle
-        title: Merge Spider Train
+        title: Alphabet Merge - Maze Puzzle 2D
         quote: >
-          https://play.google.com/store/apps/details?id=merge.choo.choo.horror.train
+          [Demo](https://www.youtube.com/watch?v=IBrxJ3-wZP0/)
         description: | # this will include new lines to allow paragraphs
-          Developed the core game logic, including character merging and enemy combat mechanics. Additionally, maintained and updated the game's SDK, ensuring smooth integration of third-party functionalities.
-     
+          Developed the core game logic, maintained and updated the game's SDK.
 
+      - layout: top-middle
+        title: Monster Maker - Mix & Fight
+        quote: >
+          [Demo](https://www.youtube.com/watch?v=FRjH8yliX9Q/)
+        description: | # this will include new lines to allow paragraphs
+          Implemented various mini-games within this monster creation and combat title, adding depth to the gameplay experience.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: University of Engineering and Technology - Vietnam National University
+        caption: 2017 - 2021
+        sub_title: Bachelor of Computer Science
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Established in 2004 from the Faculty of Technology, it has grown over the years into one of the top universities in Vietnam for Information Technology and Engineering majors.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Honed problem-solving skills and gained a strong foundation in Object-Oriented Programming (OOP), data structures, and algorithms during my time at UET, equipping me to tackle software development challenges effectively.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        title: Hung Yen High School for the Gifted
+        caption: 2014 - 2017
+        sub_title: Mathematics
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  - title: Licenses & certifications
+    layout: list
+    content:
+      - layout: left
+        title: TOEIC 895
+        caption: IIG Vietnam
+        sub_title: Issued Jan 2020 - Expired Jan 2022
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+  - title: Honors & awards
+    layout: list
+    content:
+      - layout: left
+        title: Consolation Prize in Vietnam Olympiad in Informatics
+        caption: Issued by Vietnam Ministry of Education and Training · Dec 2015
+        sub_title: Associated with Hung Yen High School for the Gifted
 
 # Footer
 footer_show_references: false
