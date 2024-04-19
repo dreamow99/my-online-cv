@@ -48,7 +48,7 @@ linkedin_username: duyphm
 # about_title: About Me
 #about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-Software Engineer with a strong foundation in mobile game development using Unity. Eager to leverage my problem-solving skills and adaptability to contribute to innovative projects in a creative and challenging environment.
+    Software Engineer with a strong foundation in mobile game development using Unity. Eager to leverage my problem-solving skills and adaptability to contribute to innovative projects in a creative and challenging environment.
 
 content:
   - title: Experience # Title for the section
