@@ -96,20 +96,20 @@ content:
           My first project using Unity, this casual adventure game provided a foundation in core game development concepts and the Unity workflow.
 
       - layout: left
-          title: Merge Spider Train
-          link: https://play.google.com/store/apps/details?id=merge.choo.choo.horror.train
-          quote: >
-            A run-and-merge game where players collect and combine monstrous spider trains to defeat enemies.
-          description: | # this will include new lines to allow paragraphs
-            Developed the core game logic, including character merging and enemy combat mechanics. Additionally, maintained and updated the game's SDK, ensuring smooth integration of third-party functionalities.
+        title: Merge Spider Train
+        link: https://play.google.com/store/apps/details?id=merge.choo.choo.horror.train
+        quote: >
+          A run-and-merge game where players collect and combine monstrous spider trains to defeat enemies.
+        description: | # this will include new lines to allow paragraphs
+          Developed the core game logic, including character merging and enemy combat mechanics. Additionally, maintained and updated the game's SDK, ensuring smooth integration of third-party functionalities.
 
       - layout: left
-          title: Merge Spider Train
-          link: https://play.google.com/store/apps/details?id=merge.choo.choo.horror.train
-          quote: >
-            A run-and-merge game where players collect and combine monstrous spider trains to defeat enemies.
-          description: | # this will include new lines to allow paragraphs
-            Developed the core game logic, including character merging and enemy combat mechanics. Additionally, maintained and updated the game's SDK, ensuring smooth integration of third-party functionalities.
+        title: Merge Spider Train
+        link: https://play.google.com/store/apps/details?id=merge.choo.choo.horror.train
+        quote: >
+          A run-and-merge game where players collect and combine monstrous spider trains to defeat enemies.
+        description: | # this will include new lines to allow paragraphs
+          Developed the core game logic, including character merging and enemy combat mechanics. Additionally, maintained and updated the game's SDK, ensuring smooth integration of third-party functionalities.
      
 
 
