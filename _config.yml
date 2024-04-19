@@ -62,6 +62,7 @@ content:
         caption: May 2021 - Present
         description: | # this will include new lines to allow paragraphs
             Skill learned: Unity, Git
+
             Leverage Unity game engine to develop and maintain multiple casual mobile games for mobile platforms.
 
       - layout: left
@@ -72,12 +73,13 @@ content:
         caption: May 2020 - Dec 2020
         description: | # this will include new lines to allow paragraphs
             Skill learned: Unity, Git
+
             Completed a project developing the client-side of a simple mobile game within a 3-person team.
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: Red Bounce Ball Adventure
         # link_text: Project link
         #additional_links:
@@ -87,19 +89,19 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          https://play.google.com/store/apps/details?id=com.ball.adventure.color.red
         description: | # this will include new lines to allow paragraphs
+          [Demo](https://play.google.com/store/apps/details?id=com.ball.adventure.color.red)
+
           My first project using Unity, this casual adventure game provided a foundation in core game development concepts and the Unity workflow.
 
-      - layout: left
+      - layout: top-middle
         title: Merge Spider Train
-        quote: >
-          https://play.google.com/store/apps/details?id=merge.choo.choo.horror.train
         description: | # this will include new lines to allow paragraphs
+          [Demo](https://play.google.com/store/apps/details?id=merge.choo.choo.horror.train)
+          
           Developed the core game logic, including character merging and enemy combat mechanics. Additionally, maintained and updated the game's SDK, ensuring smooth integration of third-party functionalities.
 
-      - layout: left
+      - layout: top-middle
         title: Merge Spider Train
         quote: >
           https://play.google.com/store/apps/details?id=merge.choo.choo.horror.train
