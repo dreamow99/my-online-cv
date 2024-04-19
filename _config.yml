@@ -89,28 +89,28 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
+        link_text: |
           [Demo](https://play.google.com/store/apps/details?id=com.ball.adventure.color.red)
         description: | # this will include new lines to allow paragraphs
           My first project using Unity, this casual adventure game provided a foundation in core game development concepts and the Unity workflow.
 
       - layout: top-middle
         title: Merge Spider Train
-        quote: >
+        link_text: |
           [Demo](https://play.google.com/store/apps/details?id=merge.choo.choo.horror.train)
         description: | # this will include new lines to allow paragraphs
           Developed the core game logic, including character controlling, character merging and enemy combat mechanics. Additionally, maintained and updated the game's SDK, ensuring smooth integration of third-party functionalities.
 
       - layout: top-middle
         title: Alphabet Merge - Maze Puzzle 2D
-        quote: >
+        link_text: |
           [Demo](https://www.youtube.com/watch?v=IBrxJ3-wZP0/)
         description: | # this will include new lines to allow paragraphs
           Developed the core game logic, maintained and updated the game's SDK.
 
       - layout: top-middle
         title: Monster Maker - Mix & Fight
-        quote: >
+        link_text: |
           [Demo](https://www.youtube.com/watch?v=FRjH8yliX9Q/)
         description: | # this will include new lines to allow paragraphs
           Implemented various mini-games within this monster creation and combat title, adding depth to the gameplay experience.
@@ -119,11 +119,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: University of Engineering and Technology - Vietnam National University
-        caption: 2017 - 2021
-        sub_title: Bachelor of Computer Science
+        title: University of Engineering and Technology
+        caption: |
+          Vietnam National University
+
+          Bachelor of Computer Science
         quote: >
-          Established in 2004 from the Faculty of Technology, it has grown over the years into one of the top universities in Vietnam for Information Technology and Engineering majors.
+          Established in 2004 from the Faculty of Technology, UET has grown over the years into one of the top universities in Vietnam for Information Technology and Engineering majors.
         description: | # this will include new lines to allow paragraphs
           Honed problem-solving skills and gained a strong foundation in Object-Oriented Programming (OOP), data structures, and algorithms during my time at UET, equipping me to tackle software development challenges effectively.
 
@@ -131,6 +133,8 @@ content:
         title: Hung Yen High School for the Gifted
         caption: 2014 - 2017
         sub_title: Mathematics
+        description: |
+          Represented my province in the National High School Olympiad in Informatics.
 
   - title: Licenses & certifications
     layout: list
@@ -143,10 +147,8 @@ content:
   - title: Honors & awards
     layout: list
     content:
-      - layout: left
+      - layout: top-middle
         title: Consolation Prize in Vietnam Olympiad in Informatics
-        caption: Issued by Vietnam Ministry of Education and Training · Dec 2015
-        sub_title: Associated with Hung Yen High School for the Gifted
 
 # Footer
 footer_show_references: false
