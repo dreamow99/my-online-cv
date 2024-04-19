@@ -89,33 +89,25 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        additional_links:
-          - title: Demo
-            url: https://play.google.com/store/apps/details?id=com.ball.adventure.color.red
+        caption: <a href="https://play.google.com/store/apps/details?id=com.ball.adventure.color.red">Demo</a>
         description: | # this will include new lines to allow paragraphs
           My first project using Unity, this casual adventure game provided a foundation in core game development concepts and the Unity workflow.
 
       - layout: top-middle
         title: Merge Spider Train
-        additional_links:
-          - title: Demo
-            url: https://play.google.com/store/apps/details?id=merge.choo.choo.horror.train
+        caption: <a href="https://play.google.com/store/apps/details?id=merge.choo.choo.horror.train">Demo</a>
         description: | # this will include new lines to allow paragraphs
           Developed the core game logic, including character controlling, character merging and enemy combat mechanics. Additionally, maintained and updated the game's SDK, ensuring smooth integration of third-party functionalities.
 
       - layout: top-middle
         title: Alphabet Merge - Maze Puzzle 2D
-        additional_links:
-          - title: Demo
-            url: https://www.youtube.com/watch?v=IBrxJ3-wZP0/
+        caption: <a href="https://www.youtube.com/watch?v=IBrxJ3-wZP0/">Demo</a>
         description: | # this will include new lines to allow paragraphs
           Developed the core game logic, maintained and updated the game's SDK.
 
       - layout: top-middle
         title: Monster Maker - Mix & Fight
-        additional_links:
-          - title: Demo
-            url: https://www.youtube.com/watch?v=FRjH8yliX9Q/
+        caption: <a href="https://www.youtube.com/watch?v=FRjH8yliX9Q/">Demo</a>
         description: | # this will include new lines to allow paragraphs
           Implemented various mini-games within this monster creation and combat title, adding depth to the gameplay experience.
 
